@@ -1,7 +1,5 @@
 ## Hi 👋 My name is Benedictine Ramos, but I prefer you call me Denise. 
 
-**benedictineramos-web/benedictineramos-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on getting my certification in Data Science with TripleTen.
 - 🌱 I’m currently learning Machine Learning for Texts and have been back and forth with Machine Learning and Statistical Analysis to better enhance my skills.
 - 👯 I’m looking to collaborate on projects about Machine Learning, as it is so far my favorite topic under this program and would love to learn more about it and keep up with the trends about it.
